@@ -45,3 +45,6 @@ Problema de la mochila:
 Stroke Data set:
 - Se realiza un modelo para predecir si una persona es susceptible a tener un derrame cerebral tomando en cuenta diferentes factores. El dataset fue obtenido de la siguiente liga: https://www.kaggle.com/fedesoriano/stroke-prediction-dataset.
 
+
+En cada carpeta tambien se adjunta una imagen de los resultados obtenidos despues de correr los codigos.
+
